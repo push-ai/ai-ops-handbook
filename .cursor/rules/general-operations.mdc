@@ -1,5 +1,129 @@
 ---
-description:
-globs:
+description: 
+globs: 
 alwaysApply: false
 ---
+# General AI Operations Standards
+
+## Universal Process Principles
+
+### Multi-Step Approach Required
+For ANY complex task or deliverable:
+- **Break Down**: Divide work into 3-8 sequential, reviewable steps
+- **Document Progress**: Create deliverables at each major checkpoint
+- **Quality Gates**: Include review and validation at key milestones  
+- **Human Oversight**: Require approval before final execution or publication
+- **Learn & Iterate**: Document lessons learned and process improvements
+
+### Context-First Operations
+Before starting any work:
+- **Read Relevant Context**: Check appropriate files in `/contexts/` directory
+- **Understand Audience**: Identify target users and their needs
+- **Align with Goals**: Ensure work supports business objectives and brand
+- **Check Dependencies**: Identify related work, systems, or stakeholders
+- **Plan Communication**: Consider how results will be shared and used
+
+## Quality Standards
+
+### Research & Validation Requirements
+- **Credible Sources**: Use authoritative, recent sources for factual claims
+- **Multiple Perspectives**: Consider different viewpoints when relevant
+- **Fact Checking**: Verify important claims and statistics
+- **Currency**: Prefer information from last 12-24 months when possible
+- **Documentation**: Record sources and rationale for future reference
+
+### Brand & Communication Consistency
+- **Voice Alignment**: Check `contexts/company/brand-identity.md` for tone guidance
+- **Message Consistency**: Ensure content supports strategic priorities
+- **Professional Standards**: Maintain appropriate formality and clarity
+- **Audience Appropriateness**: Tailor language and complexity for target users
+- **Call-to-Action**: Include clear next steps that align with business goals
+
+### Documentation & Knowledge Management
+- **Version Control**: Track changes and maintain update history
+- **Clear Ownership**: Identify responsible parties for content and decisions
+- **Accessibility**: Write for intended audience comprehension level
+- **Searchability**: Use clear titles, tags, and organization for future retrieval
+- **Maintenance**: Establish review cycles and update procedures
+
+## Collaboration Standards
+
+### Team Communication
+- **Transparency**: Share progress, challenges, and decisions openly
+- **Timeliness**: Provide updates according to established schedules
+- **Clarity**: Use specific, actionable language in communications
+- **Respect**: Consider others' time and perspectives in interactions
+- **Follow-up**: Ensure important communications are acknowledged
+
+### Review & Feedback Processes
+- **Constructive Input**: Provide specific, actionable feedback
+- **Timely Response**: Meet review deadlines and communicate delays
+- **Iterative Improvement**: Expect and incorporate multiple rounds of refinement
+- **Stakeholder Inclusion**: Involve appropriate decision-makers in reviews
+- **Final Approval**: Get explicit sign-off before proceeding to next phase
+
+### Knowledge Sharing
+- **Document Decisions**: Record rationale for important choices
+- **Share Learnings**: Communicate insights and best practices with team
+- **Update Processes**: Suggest improvements based on experience
+- **Mentor Others**: Support team members with guidance and examples
+- **Build on Previous Work**: Reference and extend existing knowledge
+
+## Risk Management & Compliance
+
+### Security & Privacy
+- **Sensitive Information**: Protect confidential business and customer data
+- **Access Controls**: Respect permissions and authorization requirements
+- **Data Minimization**: Only collect and use necessary information
+- **Compliance**: Follow applicable legal and regulatory requirements
+- **Incident Response**: Report security concerns immediately
+
+### Error Prevention & Handling
+- **Validation**: Double-check critical facts, figures, and decisions
+- **Testing**: Verify functionality before deployment or publication
+- **Rollback Plans**: Prepare recovery procedures for failures
+- **Impact Assessment**: Consider potential consequences of changes
+- **Learning Mindset**: Treat errors as improvement opportunities
+
+### Change Management
+- **Stakeholder Notification**: Communicate changes to affected parties
+- **Gradual Implementation**: Roll out changes incrementally when possible
+- **Monitoring**: Watch for unexpected effects after implementation
+- **Feedback Collection**: Gather input on change effectiveness
+- **Process Updates**: Refine procedures based on experience
+
+## Emergency & Exception Procedures
+
+### Urgent Work Handling
+For time-critical tasks:
+1. **Assess True Urgency**: Verify business impact and timeline constraints
+2. **Streamline Process**: Use abbreviated but still structured approach
+3. **Increase Communication**: More frequent updates and check-ins
+4. **Document Shortcuts**: Record any process steps skipped or compressed
+5. **Plan Follow-up**: Schedule comprehensive review after urgent need is met
+
+### Process Exceptions
+When standard process cannot be followed:
+1. **Document Reason**: Clear explanation of why exception is necessary
+2. **Identify Risks**: Potential negative consequences of deviation
+3. **Get Approval**: Stakeholder authorization for process change
+4. **Minimize Impact**: Reduce scope of deviation to essential elements only
+5. **Return to Standard**: Resume normal process as soon as possible
+
+## Continuous Improvement
+
+### Regular Assessment
+- **Process Effectiveness**: Evaluate whether procedures achieve desired outcomes
+- **Efficiency Opportunities**: Identify steps that could be streamlined or automated
+- **Quality Metrics**: Monitor accuracy, timeliness, and stakeholder satisfaction
+- **Team Feedback**: Regular input on process pain points and suggestions
+- **Industry Evolution**: Stay current with best practices and new tools
+
+### Innovation & Adaptation
+- **Experiment Safely**: Try new approaches with appropriate safeguards
+- **Measure Results**: Compare outcomes of process changes to baseline
+- **Scale Success**: Implement effective improvements across appropriate areas
+- **Share Insights**: Communicate successful innovations with broader organization
+- **Stay Flexible**: Adapt processes as business needs and context evolve
+
+Remember: These standards provide a foundation for quality and consistency while allowing flexibility for specific operational needs. Focus on principles over rigid rules, and always prioritize delivering value to stakeholders.
