@@ -20,7 +20,7 @@ departments/
 ├── product/               # Product team context and strategies
 ├── operations/            # Operations team context and procedures
 ├── finance/               # Finance team context and processes
-├── human-resources/       # HR team context and policies
+├── employee-resources/    # Resources for human and AI context and policies
 ├── legal/                 # Legal team context and compliance
 └── executive/             # Executive team context and governance
 ```
