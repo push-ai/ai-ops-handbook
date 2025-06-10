@@ -1,6 +1,76 @@
 # Company Context
 
-This directory contains foundational information about your company that AI needs to understand your business identity, culture, and strategic direction. This context ensures all AI-generated content accurately represents your company's personality and positioning.
+## Overview
+TechFlow Solutions is a high-growth B2B SaaS company specializing in workflow automation and AI-powered business intelligence. Founded in 2021, we serve mid-market and enterprise clients with innovative technology solutions that optimize business operations and drive digital transformation.
+
+## Key Information
+
+### Company Fundamentals
+- **Founded**: 2021
+- **Stage**: Series A (raising Series B)
+- **Team Size**: 150+ employees across 8 departments
+- **Revenue**: $10M ARR (100% YoY growth target)
+- **Headquarters**: San Francisco, CA (Remote-first culture)
+
+### Mission & Vision
+- **Mission**: Empower businesses to achieve operational excellence through intelligent automation and data-driven insights
+- **Vision**: Become the leading platform for AI-powered business operations and workflow optimization
+- **Values**: Innovation, Transparency, Customer Success, Continuous Learning, Ethical AI
+
+### Business Model
+- **Primary**: B2B SaaS subscription model
+- **Target Market**: Mid-market and enterprise companies (500-5000 employees)
+- **Revenue Streams**: Monthly/annual subscriptions, professional services, AI premium features
+- **Key Differentiator**: Human-AI collaboration framework and intelligent workflow automation
+
+### Current Priorities (Q1 2024)
+- Series B funding round ($25M target)
+- Product market fit expansion and new feature development
+- International market expansion (Europe focus)
+- AI integration and automation across all business functions
+- Operational scalability for 200%+ growth
+
+## Relationships
+
+### Department Integration
+- **Executive**: Strategic direction and investor relations
+- **Sales & Marketing**: Revenue growth and customer acquisition
+- **Product & Engineering**: Innovation and technology leadership
+- **Customer Success**: Retention and expansion
+- **Operations & Finance**: Scalability and financial management
+
+### External Stakeholders
+- **Investors**: Series A investors, potential Series B investors
+- **Customers**: 200+ enterprise and mid-market clients
+- **Partners**: Technology integrations, channel partners, consulting firms
+- **Community**: Industry associations, open source contributions
+
+## AI Guidance
+
+When creating content for TechFlow Solutions:
+- Emphasize our human-AI collaboration approach and ethical AI practices
+- Highlight rapid growth trajectory and operational excellence
+- Focus on customer success stories and measurable business impact
+- Maintain professional but approachable tone reflecting our innovative culture
+- Include data-driven insights and metrics when relevant
+- Position as thought leaders in AI-powered business operations
+
+### Voice & Tone
+- **Professional yet approachable**: Expert knowledge with accessible communication
+- **Data-driven**: Support claims with metrics and concrete examples
+- **Innovation-focused**: Emphasize cutting-edge technology and forward-thinking
+- **Customer-centric**: Always tie back to customer value and business impact
+- **Growth-oriented**: Reflect ambitious goals and scaling mindset
+
+### Key Messaging Themes
+- Human-AI collaboration and intelligent automation
+- Operational excellence and business transformation
+- Rapid growth and scalability
+- Customer success and measurable ROI
+- Ethical AI and responsible technology development
+
+## Last Updated
+January 2024 - Updated for Series B preparation and Q1 strategic initiatives
 
 ## File Structure
 
